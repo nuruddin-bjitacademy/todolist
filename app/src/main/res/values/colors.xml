@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#07a764</color>
+    <color name="colorPrimaryDark">#05bc6f</color>
+    <color name="colorAccent">#fd7f01</color>
+    <color name="colorSuccess">#FFC107</color>
+    <color name="colorUnSuccess">#fd2b01</color>
+
+
+    <color name="highPriority">#fd2b01</color>
+    <color name="mediumPriority">#FFE500</color>
+    <color name="normalPriority">#03A9F4</color>
+    <color name="lessPriority">#1AFD01</color>
+    <color name="noPriority">#000000</color>
+
+
+</resources>
